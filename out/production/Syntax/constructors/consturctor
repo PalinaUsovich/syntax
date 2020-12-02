@@ -1,0 +1,7 @@
+Constructors:
+1)Is a special block of code/similar to a method that is executed
+2)when we create an object of the class
+3)the purpose of constructors is to initialize our fields
+4)they must name same as name of the class
+5)constructors do not have return types not even void
+6)we can pass arguments  to our constructors just like we do for our methods

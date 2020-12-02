@@ -21,7 +21,7 @@ public class BankApplication {
 
         double transferMoney = palinasAccount.transaction(0);
 
-        if(transferMoney==0){
+                if(transferMoney==0){
             System.out.println("Insufficient balance");
         }else {
             System.out.println(transferMoney + " transferred");

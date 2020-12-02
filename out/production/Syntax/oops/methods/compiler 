@@ -1,0 +1,14 @@
+compiler converts your java code to the byte code which our JVM can understand
+
+JVM takes and converts that code to machine that our computers can understand
+
+JVM activate MAIN method
+
+Protected /default
+is not a keyword iys just a behaviour which is assigned to our properties or methods
+id do not specify access modifiers .
+and these field/properties/attributes or methods/behaviours are then accessible within same package
+ public
+ is a keyword in java and it controls the access to our fields and methods
+ can access our fields and methods anywhere inside our code base
+

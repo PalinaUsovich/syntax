@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbcdae67-0a05-47b6-94bc-a5eacf10254c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/constructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/BankApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/oops/BankApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops/BankApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/BankApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jqj4skIgTzJF7RcclBy0DNjZHv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,15 +33,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
   </component>
-  <component name="RunManager" selected="Application.BankApplication">
-    <configuration name="BankApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.BankApplication" />
+  <component name="RunManager" selected="Application.Employees">
+    <configuration name="Employees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructors.Employees" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -45,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.Dog_main" />
+    <configuration name="Repl138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repl.it.staticKeyWord.Repl138" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="repl.it.staticKeyWord.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Garage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.Garage" />
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.string.tasks.Task6" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="oops.string.tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iphone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.Iphone" />
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.string.tasks.Task7" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="oops.string.tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,22 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.string.tasks.Task8" />
       <module name="Syntax" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.string.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankApplication" />
-        <item itemvalue="Application.Iphone" />
-        <item itemvalue="Application.Dog_main" />
-        <item itemvalue="Application.Garage" />
+        <item itemvalue="Application.Employees" />
+        <item itemvalue="Application.Repl138" />
+        <item itemvalue="Application.Task8" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Task6" />
       </list>
     </recent_temporary>
   </component>
@@ -129,49 +137,111 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1680" height="245" key="GridCell.Tab.0.bottom" timestamp="1604970287641">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state x="470" y="283" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606868879341">
+      <screen x="0" y="23" width="1680" height="965" />
     </state>
-    <state width="1680" height="245" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1604970287641" />
-    <state width="1680" height="245" key="GridCell.Tab.0.center" timestamp="1604970287641">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state x="470" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.961@0.23.1680.961" timestamp="1605742565235" />
+    <state x="470" y="283" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.965@0.23.1680.965" timestamp="1606868879341" />
+    <state x="470" y="285" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.972@0.23.1680.972" timestamp="1604980324218" />
+    <state width="1680" height="200" key="GridCell.Tab.0.bottom" timestamp="1606950614499">
+      <screen x="0" y="23" width="1680" height="966" />
     </state>
-    <state width="1680" height="245" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1604970287641" />
-    <state width="1680" height="245" key="GridCell.Tab.0.left" timestamp="1604970287640">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1680" height="243" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1606187923152" />
+    <state width="1680" height="243" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1606249388041" />
+    <state width="1680" height="200" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1606869518159" />
+    <state width="1680" height="200" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1606950614499" />
+    <state width="1680" height="245" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1605658028915" />
+    <state width="1680" height="245" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1605658995843" />
+    <state width="1680" height="200" key="GridCell.Tab.0.center" timestamp="1606950614498">
+      <screen x="0" y="23" width="1680" height="966" />
     </state>
-    <state width="1680" height="245" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1604970287640" />
-    <state width="1680" height="245" key="GridCell.Tab.0.right" timestamp="1604970287641">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1680" height="243" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1606187923151" />
+    <state width="1680" height="243" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1606249388040" />
+    <state width="1680" height="200" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1606869518159" />
+    <state width="1680" height="200" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1606950614498" />
+    <state width="1680" height="245" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1605658028914" />
+    <state width="1680" height="245" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1605658995842" />
+    <state width="1680" height="200" key="GridCell.Tab.0.left" timestamp="1606950614498">
+      <screen x="0" y="23" width="1680" height="966" />
     </state>
-    <state width="1680" height="245" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1604970287641" />
-    <state width="1680" height="306" key="GridCell.Tab.1.bottom" timestamp="1604777148316">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1680" height="243" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1606187923150" />
+    <state width="1680" height="243" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1606249388039" />
+    <state width="1680" height="200" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1606869518158" />
+    <state width="1680" height="200" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1606950614498" />
+    <state width="1680" height="245" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1605658028914" />
+    <state width="1680" height="245" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1605658995841" />
+    <state width="1680" height="200" key="GridCell.Tab.0.right" timestamp="1606950614499">
+      <screen x="0" y="23" width="1680" height="966" />
     </state>
-    <state width="1680" height="306" key="GridCell.Tab.1.bottom/0.23.1680.967@0.23.1680.967" timestamp="1604777148316" />
-    <state width="1680" height="306" key="GridCell.Tab.1.center" timestamp="1604777148316">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1680" height="243" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1606187923151" />
+    <state width="1680" height="243" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1606249388041" />
+    <state width="1680" height="200" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1606869518159" />
+    <state width="1680" height="200" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1606950614499" />
+    <state width="1680" height="245" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1605658028915" />
+    <state width="1680" height="245" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1605658995842" />
+    <state width="1680" height="303" key="GridCell.Tab.1.bottom" timestamp="1606799003343">
+      <screen x="0" y="23" width="1680" height="966" />
     </state>
-    <state width="1680" height="306" key="GridCell.Tab.1.center/0.23.1680.967@0.23.1680.967" timestamp="1604777148316" />
-    <state width="1680" height="306" key="GridCell.Tab.1.left" timestamp="1604777148316">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1680" height="302" key="GridCell.Tab.1.bottom/0.23.1680.963@0.23.1680.963" timestamp="1606189057193" />
+    <state width="1680" height="303" key="GridCell.Tab.1.bottom/0.23.1680.966@0.23.1680.966" timestamp="1606799003343" />
+    <state width="1680" height="305" key="GridCell.Tab.1.bottom/0.23.1680.967@0.23.1680.967" timestamp="1605657826727" />
+    <state width="1680" height="303" key="GridCell.Tab.1.center" timestamp="1606799003343">
+      <screen x="0" y="23" width="1680" height="966" />
     </state>
-    <state width="1680" height="306" key="GridCell.Tab.1.left/0.23.1680.967@0.23.1680.967" timestamp="1604777148316" />
-    <state width="1680" height="306" key="GridCell.Tab.1.right" timestamp="1604777148316">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1680" height="302" key="GridCell.Tab.1.center/0.23.1680.963@0.23.1680.963" timestamp="1606189057192" />
+    <state width="1680" height="303" key="GridCell.Tab.1.center/0.23.1680.966@0.23.1680.966" timestamp="1606799003343" />
+    <state width="1680" height="305" key="GridCell.Tab.1.center/0.23.1680.967@0.23.1680.967" timestamp="1605657826727" />
+    <state width="1680" height="303" key="GridCell.Tab.1.left" timestamp="1606799003342">
+      <screen x="0" y="23" width="1680" height="966" />
     </state>
-    <state width="1680" height="306" key="GridCell.Tab.1.right/0.23.1680.967@0.23.1680.967" timestamp="1604777148316" />
-    <state x="219" y="23" key="SettingsEditor" timestamp="1604771395889">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1680" height="302" key="GridCell.Tab.1.left/0.23.1680.963@0.23.1680.963" timestamp="1606189057192" />
+    <state width="1680" height="303" key="GridCell.Tab.1.left/0.23.1680.966@0.23.1680.966" timestamp="1606799003342" />
+    <state width="1680" height="305" key="GridCell.Tab.1.left/0.23.1680.967@0.23.1680.967" timestamp="1605657826727" />
+    <state width="1680" height="303" key="GridCell.Tab.1.right" timestamp="1606799003343">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state width="1680" height="302" key="GridCell.Tab.1.right/0.23.1680.963@0.23.1680.963" timestamp="1606189057193" />
+    <state width="1680" height="303" key="GridCell.Tab.1.right/0.23.1680.966@0.23.1680.966" timestamp="1606799003343" />
+    <state width="1680" height="305" key="GridCell.Tab.1.right/0.23.1680.967@0.23.1680.967" timestamp="1605657826727" />
+    <state x="219" y="23" key="SettingsEditor" timestamp="1604971357415">
+      <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="219" y="23" key="SettingsEditor/0.23.1680.967@0.23.1680.967" timestamp="1604771395889" />
+    <state x="219" y="23" key="SettingsEditor/0.23.1680.972@0.23.1680.972" timestamp="1604971357415" />
     <state x="240" y="121" key="Vcs.Push.Dialog.v2" timestamp="1604773984203">
       <screen x="0" y="23" width="1680" height="967" />
     </state>
     <state x="240" y="121" key="Vcs.Push.Dialog.v2/0.23.1680.967@0.23.1680.967" timestamp="1604773984203" />
-    <state x="461" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1604546927265">
-      <screen x="0" y="23" width="1680" height="966" />
+    <state x="461" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1605740014367">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
+    <state x="461" y="299" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1605740014367" />
     <state x="461" y="300" key="com.intellij.ide.util.TipDialog/0.23.1680.966@0.23.1680.966" timestamp="1604546927265" />
+    <state x="461" y="301" key="com.intellij.ide.util.TipDialog/0.23.1680.967@0.23.1680.967" timestamp="1605067576663" />
+    <state x="461" y="302" key="com.intellij.ide.util.TipDialog/0.23.1680.972@0.23.1680.972" timestamp="1605053990924" />
+    <state x="209" y="126" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606188905749">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="209" y="126" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1680.963@0.23.1680.963" timestamp="1606188905748" />
+    <state x="0" y="23" width="1206" height="967" key="find.popup" timestamp="1605066984234">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="0" y="23" width="1206" height="967" key="find.popup/0.23.1680.967@0.23.1680.967" timestamp="1605066984234" />
+    <state x="337" y="23" width="1005" height="964" key="search.everywhere.popup" timestamp="1606241754781">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="337" y="23" width="1005" height="964" key="search.everywhere.popup/0.23.1680.963@0.23.1680.963" timestamp="1606241754781" />
+    <state x="337" y="23" width="1005" height="972" key="search.everywhere.popup/0.23.1680.972@0.23.1680.972" timestamp="1604971374362" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oops/string/tasks/Task2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

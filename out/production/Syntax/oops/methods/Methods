@@ -1,0 +1,18 @@
+Modifiers: The modifier , which is optional , tells the compiler how to call the method
+
+Return type: A method may return a value;
+the return value type is the datatype of the value the method returns
+Method name : This is actual method name
+
+Parameters ;
+this valuer referred to as the actual parameter or argument. The parameter list refers to the type ,
+order, and number of the parameter of a method .
+parameters are optional; that is , a method may contain no parameters
+
+Method Body: The method body contains a collection of statements that define what the method does
+
+NOTE: In certain other languages , methods are referred to as procedures and functions. A method with a
+non void return value type is called a function ; a method with a void return value type is
+called a procedure
+
+

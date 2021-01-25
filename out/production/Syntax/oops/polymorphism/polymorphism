@@ -1,0 +1,12 @@
+1)can we overload private method
+-yes, we can overload a private method;
+
+2)we can overload static method
+-yes, we can overload static method
+
+3)can we overload main method
+-yes we can overload main method(we can change the data type inside the brackets)
+
+
+
+

@@ -1,0 +1,27 @@
+4 pillars of OOP to support programming
+1)Inheritance
+2)polymorphism
+3)Abstraction
+4)Encapsulation
+
+1)Inheritance:
+is a mechanism to refer functions
+ and fields of parents class to subclasses. It is a process where on class acquires
+ the properties and methods of another class
+ 2)Polymorphism:
+ the ability of the objects to take many forms
+ being able to do multiple functions using name reference variable
+ but with different objects
+ process when object can perform actions in different way
+ There are two types of Polymorphism runtime/dynamic late binding and compile time early binding or static
+ we can achieve compile time polymorphism using method overloading
+ we  can achieve dynamic or runtime binding polymorphism using method overriding
+ 3)Abstraction
+ abstraction is a process of showing the functionality to the user but hiding the processes or implementation details
+ behind it
+ To implement Abstraction (abstract)
+
+ If we have declared a class as abstract, we can not create objects of that class
+
+
+

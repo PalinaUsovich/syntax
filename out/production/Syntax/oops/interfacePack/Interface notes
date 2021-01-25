@@ -1,0 +1,16 @@
+Interfaces:
+its a way to achieve 100% polymorphism .
+always have fields as PUBLIC STATIC FINAL (by default) because we will never be creating an object of this class
+which means we cannot change them , can only access them
+
+Methods in interface are always  public abstract (by default) will be added automatically
+
+Its a mechanism to achieve100% abstraction in Java
+we can achieve abstraction and multiple inheritance using the interfaces.
+we use interface when we know nothing about implementation and we only know
+about the functionality
+1)An interface gave all of the fields as public static final by defaoult and we can not create instance fields
+WHY because we can not create object of Interface. If we try to declare the fields as anything other than public static final
+or we will get an error. they are widely used to support lambdas
+3)Any class who implements the Interface has to provide the implementation for the abstract methods or we can declare that class
+as abstract

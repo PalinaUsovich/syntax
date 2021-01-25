@@ -5,3 +5,19 @@ Constructors:
 4)they must name same as name of the class
 5)constructors do not have return types not even void
 6)we can pass arguments  to our constructors just like we do for our methods
+
+similarities between constructors and methods
+
+1)Both can have parameters
+2)both can have access modifiers (private/public/default/protected
+3) can call methods
+
+Difference constructors vs methods
+
+1)We can name constructor only with a class name , methods can have any names
+2)Constructors can not have any return type, methods must have return type
+3)Constructors are automatically called when instance of the class is created
+
+When should we use a constructors?
+when we want to control the initialization for our fields
+

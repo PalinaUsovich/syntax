@@ -1,0 +1,40 @@
+Abstraction :
+Its a process of hiding implementation details and
+showing only the important info to the user
+
+there are 2 Types of abstraction:
+1)Using the Abstract classes
+2)Using the Interfaces
+in Java so far we have implemented complete methods where we needed them
+
+when we create objects of child classes all parents classes will be initialized, even of abstract
+by using final KeyWord we will not inherit this class or override the method (class wont get initialize)
+
+
+Key Points:
+Abstract class:
+1. can have abstract and completed (non-abstract methods)
+2. can have constructors
+3. can have static and instance variables
+
+4. can  have static  and NON-static methods and fields
+5. can have final methods fields
+6. abstract methods can not  have static modifier and can not be private
+7. we can not make them final
+8. we can not create objects of Abstract class!!!!
+
+
+
+we can achieve abstraction in java in two ways
+1) Abstract classes and other one is Interfaces
+Abstract classes can have abstract methods we can implement those abstract methods in our child classes
+rules to follow:
+we can have as many abstract methods as we want in a class
+
+1)TO declare an abstract we can use abstract keyword
+2)we cannot have abstract methods as private bc they will never be inherited and we will not be able to provide
+implementation for those methods
+3) we can not declare declare our methods as final bc final methods can never be overridden
+abstract class ParentClass{
+
+public abstract method1();

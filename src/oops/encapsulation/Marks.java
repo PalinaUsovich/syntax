@@ -8,22 +8,25 @@ public abstract class Marks {
 }
 class A extends Marks{
     int mathMark,litMark,artMark;
+
     A (int mathMark,int litMark, int artMark){
         this.artMark = artMark;
         this.litMark = litMark;
         this.mathMark = mathMark;
     }
 
-
-
     @Override
+
     double getPercentage() {
-        double average
+        double average = 0;
         int [] marks = {mathMark,litMark,artMark};
-        for(int i = 0; i<=marks.length; i++){
+        int length = marks.length;
+        for(int i :marks){
+           average+=i;
 
         }
-        double average = mathMark + litMark + artMark %;
+        average = average/length;
+
         return average;
     }
 }
@@ -35,8 +38,26 @@ class B extends A{
         this.itMark = itMark;
     }
 
-    @Override
-    double getPercentage() {
-        return 0;
+
+//    double getPercentage() {
+//        double average = 0;
+//        int [] marks = {mathMark,litMark,artMark,itMark};
+//        int length = marks.length;
+//        for(int i :marks){
+//            average+=i;
+//        }
+//        average = average/length;
+//
+//        return average;
+//    }
+
+
+}
+class MainClass{
+    public static void main(String[] args) {
+        Marks marks = new A(10,10,10);
+        System.out.println(marks.getPercentage());
+        marks = new B(20,10,20,20);
+        System.out.println(marks.getPercentage());
     }
 }

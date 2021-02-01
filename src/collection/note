@@ -1,0 +1,5 @@
+ArrayList:
+Are consecutive memory locations
+
+If you need to read the Data -> ArrayList is the best choice
+If yoy need to manipulate Data , add smth in between or ih the beginning  -> LinkedList is the best choice

@@ -2,284 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbcdae67-0a05-47b6-94bc-a5eacf10254c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guiApplication/GUIApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Syntax.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/accessmodifiers/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/BookClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/BookClassExecutor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/Employees.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/StudentClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/StudentClassExecuter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/Students.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/StudentsExecute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/TesterExecute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/TesterTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/thiskeyWord/BookClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/constructors/thiskeyWord/StudentClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/BankApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/Dog_main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/Garage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/Iphone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/Laptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/MyLaptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/SmartPhones.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/abstraction/File.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/abstraction/FileTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/abstraction/Iphone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/abstraction/JavaFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/abstraction/PdfFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/abstraction/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/abstraction/Samsung.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/abstraction/WordFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/finalKeyWord/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/finalKeyWord/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/finalKeyWord/ComputerTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/finalKeyWord/Dell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/finalKeyWord/HP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/finalKeyWord/Lenovo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/finalKeyWord/smartMachine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/CircleClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/GrandParents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/Kid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/MathTeacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/Mother.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/Palina.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/ParentChildExecuter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/ShapeClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/Task1Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/TeacherTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/UserClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/UserInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/methodOverloading/Overloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/methodOverloading/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/methodOverloading/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/methodOverloading/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/methodOverloading/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/methodOverriding/AX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/methodOverriding/Bachelors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/methodOverriding/CreditCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/methodOverriding/Masters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/methodOverriding/Overriding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/inheritance/methodOverriding/Visa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/interfacePack/ChildClassTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/interfacePack/ChildMyInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/interfacePack/ChromeDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/interfacePack/FireFoxDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/interfacePack/MyInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/interfacePack/MyInterface2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/interfacePack/SeleniumTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/interfacePack/WebDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/interfacePack/WebDriverTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/methods/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/methods/HelloInDifflanguages.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/methods/IsPalindromeTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/methods/MainEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/methods/Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/methods/Students.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/methods/StudentsMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/methods/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/methods/Tsk2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/polymorphism/Kate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/polymorphism/Palina.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/polymorphism/PalinaParents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/polymorphism/Roma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/polymorphism/Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/polymorphism/casting/Cockapoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/polymorphism/casting/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/polymorphism/casting/DogTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/polymorphism/casting/JackRussel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/ConcatMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/ContainsMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/EndsWithMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/EqualsIgnoreCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/EqualsMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/LengthMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/ReplaceAllMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/ReplaceMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/SplitMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/StartsWithMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/StringBuilderClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/StringMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/SubstringMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/ToLowerUpperCaseMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/TrimMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/charAt/CharAt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/charAt/IndexOf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/charAt/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/isEmptyMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/tasks/SwapTwoStringsWithoutTempVariab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/tasks/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/tasks/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/tasks/Task2main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/tasks/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/tasks/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/tasks/Task5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/tasks/Task6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/tasks/Task7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/string/tasks/Task8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/oops/superKeyword/SuperKeyword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/practiceSyntax/homework1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/MethodsJava/Repl112.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/MethodsJava/Repl113.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/MethodsJava/Repl114.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/MethodsJava/Repl115.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/MethodsJava/Repl116.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/MethodsJava/Repl117.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/MethodsJava/Repl118.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/MethodsJava/Repl119.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/MethodsJava/Repl120.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/MethodsJava/Repl121.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/MethodsJava/Repl122.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/Repl104.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/Repl108.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/Repl109.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/Repl110.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/Repl111.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/Repl94.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/StringManupulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/String_Man.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/abstraction/ChaiTea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/abstraction/LemonTea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/abstraction/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/abstraction/MainParentClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/abstraction/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/abstraction/ParentClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/abstraction/Repl173.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/abstraction/Repl174.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/abstraction/Repl175.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/abstraction/Tea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/accessModifiers/Repl139.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/accessModifiers/Repl140.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/accessModifiers/Repl141.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/accessModifiers/Repl142.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/accessModifiers/Repl143.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/accessModifiers/Repl144.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/accessModifiers/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/constructor/Repl145.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/constructor/Repl146.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/constructor/Repl147.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/encapsulation/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/encapsulation/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/encapsulation/EncapsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/encapsulation/EncapsulationDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/encapsulation/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/encapsulation/Repl180.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/encapsulation/Repl181.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/encapsulation/Repl182.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/encapsulation/Repl183.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/encapsulation/Repl184.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/finalKeyWord/Repl170.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/finalKeyWord/Repl171.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/finalKeyWord/Repl172.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/finalKeyWord/Repl173.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/inheritance/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/inheritance/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/inheritance/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/inheritance/Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/inheritance/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/inheritance/Repl152.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/inheritance/Repl153.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/inheritance/Repl154.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/inheritance/Retiree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/inheritance/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/interfaceRepl/ChildInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/interfaceRepl/FirstInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/interfaceRepl/Functions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/interfaceRepl/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/interfaceRepl/MainInterfaceClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/interfaceRepl/MyInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/interfaceRepl/Outputs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/interfaceRepl/ParentInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/interfaceRepl/Repl176.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/interfaceRepl/Repl177.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/interfaceRepl/Repl178.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/interfaceRepl/Repl179.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/interfaceRepl/SecondInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverloading/Repl162.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverloading/Repl163.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverloading/Repl164.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverloading/Repl165.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/ChildClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Kitten1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Kitten2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Kitten3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/ParentClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/ParentWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Repl166.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Repl167.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Repl168.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Repl169.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Subclass1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Subclass2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/methodOverriding/Subclass3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/repl106.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/repl107.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/staticKeyWord/Repl130.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/staticKeyWord/Repl131.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/staticKeyWord/Repl132.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/staticKeyWord/Repl133.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/staticKeyWord/Repl134.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/staticKeyWord/Repl136.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/staticKeyWord/Repl137.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/staticKeyWord/Repl138.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/AA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/BB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/Child1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/Child2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/ChildClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/Parent1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/Parent2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/ParentClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/Repl155.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/Repl156.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/Repl157.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/Repl158.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/Repl159.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/Repl160.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/Repl161.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/callChild.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/superKeyWord/callParent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/thisKeyWord/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/thisKeyWord/MainMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/thisKeyWord/Repl148.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/thisKeyWord/Repl149.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/thisKeyWord/Repl150.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/thisKeyWord/Repl151.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/thisKeyWord/Store.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/thisKeyWord/Work.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/variableInJava/Repl123.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/variableInJava/Repl124.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/variableInJava/Repl125.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/variableInJava/Repl126.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/variableInJava/Repl127.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/variableInJava/Repl128.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/repl/it/variableInJava/Repl129.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/encapsulation/Marks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/encapsulation/Marks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guiApplication/GUIApp.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,19 +33,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="repl.it.thisKeyWord" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GUIApp">
-    <configuration name="GUIApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Task3">
+    <configuration name="GUIApp" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="guiApplication.GUIApp" />
       <module name="Syntax" />
       <option name="VM_PARAMETERS" value="--module-path%PATH_TO_FX% -- add- modules=javafx.controls,javafx.fxml" />
@@ -333,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.encapsulation.MainClass" />
+    <configuration name="RemoveDuplicatesFromArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.hashset.RemoveDuplicatesFromArrayList" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.encapsulation.*" />
+          <option name="PATTERN" value="collection.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Repl182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repl.it.encapsulation.Repl182" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.hashset.Task1" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repl.it.encapsulation.*" />
+          <option name="PATTERN" value="collection.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Repl183" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repl.it.encapsulation.Repl183" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.hashset.Task2" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repl.it.encapsulation.*" />
+          <option name="PATTERN" value="collection.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Repl184" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repl.it.encapsulation.Repl184" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.hashset.Task3" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repl.it.encapsulation.*" />
+          <option name="PATTERN" value="collection.hashset.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreesetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.hashset.TreesetDemo" />
+      <module name="Syntax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,18 +130,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.GUIApp" />
-      <item itemvalue="Application.MainClass" />
-      <item itemvalue="Application.Repl182" />
-      <item itemvalue="Application.Repl183" />
-      <item itemvalue="Application.Repl184" />
+      <item itemvalue="Application.TreesetDemo" />
+      <item itemvalue="Application.RemoveDuplicatesFromArrayList" />
+      <item itemvalue="Application.Task1" />
+      <item itemvalue="Application.Task2" />
+      <item itemvalue="Application.Task3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GUIApp" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.Repl184" />
-        <item itemvalue="Application.Repl183" />
-        <item itemvalue="Application.Repl182" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.RemoveDuplicatesFromArrayList" />
+        <item itemvalue="Application.TreesetDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -428,14 +172,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="240" y="28" key="#Project_Structure" timestamp="1611609931728">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="240" y="28" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1611609931728" />
     <state x="304" y="166" width="1180" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611608786466">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="166" width="1180" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611608786466" />
-    <state x="470" y="284" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611377212347">
+    <state x="470" y="284" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612023178071">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="470" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1611377212347" />
+    <state x="470" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1612023178071" />
     <state x="470" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.961@0.23.1680.961" timestamp="1605742565235" />
     <state x="470" y="283" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.965@0.23.1680.965" timestamp="1606868879341" />
     <state x="470" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.967@0.23.1680.967" timestamp="1607453531523" />
@@ -446,10 +194,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="582" y="121" key="#com.intellij.ide.macro.MacrosDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611608634116" />
-    <state x="581" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1611531863448">
+    <state x="581" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1612132555667">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="581" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1611531863448" />
+    <state x="581" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1612132555667" />
     <state x="581" y="99" key="#com.intellij.ide.util.MemberChooser/0.23.1680.967@0.23.1680.967" timestamp="1607470711658" />
     <state x="506" y="247" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1611608764157">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -459,6 +207,14 @@
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="441" y="41" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.972@0.23.1680.972" timestamp="1607019034155" />
+    <state x="623" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1611610759630">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="623" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611610759630" />
+    <state x="678" y="110" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1611609924281">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="678" y="110" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611609924281" />
     <state x="540" y="363" width="631" height="299" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607468400422">
       <screen x="0" y="23" width="1680" height="967" />
     </state>
@@ -467,14 +223,18 @@
       <screen x="0" y="23" width="1680" height="977" />
     </state>
     <state x="631" y="380" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1680.977@0.23.1680.977" timestamp="1608578017385" />
+    <state x="475" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612051478364">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="475" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1612051478364" />
     <state x="448" y="129" key="DetectedRootsChooserDialog" timestamp="1611434431917">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="448" y="129" key="DetectedRootsChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611434431917" />
-    <state width="1680" height="196" key="GridCell.Tab.0.bottom" timestamp="1611608508014">
+    <state width="1618" height="188" key="GridCell.Tab.0.bottom" timestamp="1612133579753">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1680" height="196" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611608508014" />
+    <state width="1618" height="188" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1612133579753" />
     <state width="1680" height="243" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1606187923152" />
     <state width="1680" height="243" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1606249388041" />
     <state width="1648" height="196" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1609793919290" />
@@ -488,10 +248,10 @@
     <state width="1648" height="198" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1608597387042" />
     <state width="1648" height="198" key="GridCell.Tab.0.bottom/0.23.1680.978@0.23.1680.978" timestamp="1608597317142" />
     <state width="1680" height="196" key="GridCell.Tab.0.bottom/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1611033119825" />
-    <state width="1680" height="196" key="GridCell.Tab.0.center" timestamp="1611608508012">
+    <state width="1618" height="188" key="GridCell.Tab.0.center" timestamp="1612133579752">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1680" height="196" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611608508012" />
+    <state width="1618" height="188" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1612133579752" />
     <state width="1680" height="243" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1606187923151" />
     <state width="1680" height="243" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1606249388040" />
     <state width="1648" height="196" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1609793919289" />
@@ -505,10 +265,10 @@
     <state width="1648" height="198" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1608597387041" />
     <state width="1648" height="198" key="GridCell.Tab.0.center/0.23.1680.978@0.23.1680.978" timestamp="1608597317142" />
     <state width="1680" height="196" key="GridCell.Tab.0.center/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1611033119823" />
-    <state width="1680" height="196" key="GridCell.Tab.0.left" timestamp="1611608508011">
+    <state width="1618" height="188" key="GridCell.Tab.0.left" timestamp="1612133579751">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1680" height="196" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611608508011" />
+    <state width="1618" height="188" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1612133579751" />
     <state width="1680" height="243" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1606187923150" />
     <state width="1680" height="243" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1606249388039" />
     <state width="1648" height="196" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1609793919288" />
@@ -522,10 +282,10 @@
     <state width="1648" height="198" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1608597387041" />
     <state width="1648" height="198" key="GridCell.Tab.0.left/0.23.1680.978@0.23.1680.978" timestamp="1608597317141" />
     <state width="1680" height="196" key="GridCell.Tab.0.left/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1611033119823" />
-    <state width="1680" height="196" key="GridCell.Tab.0.right" timestamp="1611608508012">
+    <state width="1618" height="188" key="GridCell.Tab.0.right" timestamp="1612133579753">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1680" height="196" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611608508012" />
+    <state width="1618" height="188" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1612133579753" />
     <state width="1680" height="243" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1606187923151" />
     <state width="1680" height="243" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1606249388041" />
     <state width="1648" height="196" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1609793919289" />
@@ -539,34 +299,38 @@
     <state width="1648" height="198" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1608597387042" />
     <state width="1648" height="198" key="GridCell.Tab.0.right/0.23.1680.978@0.23.1680.978" timestamp="1608597317142" />
     <state width="1680" height="196" key="GridCell.Tab.0.right/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1611033119824" />
-    <state width="1680" height="303" key="GridCell.Tab.1.bottom" timestamp="1606799003343">
-      <screen x="0" y="23" width="1680" height="966" />
+    <state width="1618" height="333" key="GridCell.Tab.1.bottom" timestamp="1611950390423">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1618" height="333" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611950390423" />
     <state width="1680" height="302" key="GridCell.Tab.1.bottom/0.23.1680.963@0.23.1680.963" timestamp="1606189057193" />
     <state width="1680" height="303" key="GridCell.Tab.1.bottom/0.23.1680.966@0.23.1680.966" timestamp="1606799003343" />
     <state width="1680" height="305" key="GridCell.Tab.1.bottom/0.23.1680.967@0.23.1680.967" timestamp="1605657826727" />
-    <state width="1680" height="303" key="GridCell.Tab.1.center" timestamp="1606799003343">
-      <screen x="0" y="23" width="1680" height="966" />
+    <state width="1618" height="333" key="GridCell.Tab.1.center" timestamp="1611950390422">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1618" height="333" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611950390422" />
     <state width="1680" height="302" key="GridCell.Tab.1.center/0.23.1680.963@0.23.1680.963" timestamp="1606189057192" />
     <state width="1680" height="303" key="GridCell.Tab.1.center/0.23.1680.966@0.23.1680.966" timestamp="1606799003343" />
     <state width="1680" height="305" key="GridCell.Tab.1.center/0.23.1680.967@0.23.1680.967" timestamp="1605657826727" />
-    <state width="1680" height="303" key="GridCell.Tab.1.left" timestamp="1606799003342">
-      <screen x="0" y="23" width="1680" height="966" />
+    <state width="1618" height="333" key="GridCell.Tab.1.left" timestamp="1611950390421">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1618" height="333" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611950390421" />
     <state width="1680" height="302" key="GridCell.Tab.1.left/0.23.1680.963@0.23.1680.963" timestamp="1606189057192" />
     <state width="1680" height="303" key="GridCell.Tab.1.left/0.23.1680.966@0.23.1680.966" timestamp="1606799003342" />
     <state width="1680" height="305" key="GridCell.Tab.1.left/0.23.1680.967@0.23.1680.967" timestamp="1605657826727" />
-    <state width="1680" height="303" key="GridCell.Tab.1.right" timestamp="1606799003343">
-      <screen x="0" y="23" width="1680" height="966" />
+    <state width="1618" height="333" key="GridCell.Tab.1.right" timestamp="1611950390423">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1618" height="333" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611950390423" />
     <state width="1680" height="302" key="GridCell.Tab.1.right/0.23.1680.963@0.23.1680.963" timestamp="1606189057193" />
     <state width="1680" height="303" key="GridCell.Tab.1.right/0.23.1680.966@0.23.1680.966" timestamp="1606799003343" />
     <state width="1680" height="305" key="GridCell.Tab.1.right/0.23.1680.967@0.23.1680.967" timestamp="1605657826727" />
-    <state x="79" y="23" width="1439" height="975" key="SettingsEditor" timestamp="1611608432808">
+    <state x="79" y="0" width="1439" height="1050" key="SettingsEditor" timestamp="1611611116860">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="79" y="23" width="1439" height="975" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1611608432808" />
+    <state x="79" y="0" width="1439" height="1050" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1611611116860" />
     <state x="219" y="23" key="SettingsEditor/0.23.1680.967@0.23.1680.967" timestamp="1604771395889" />
     <state x="219" y="23" key="SettingsEditor/0.23.1680.972@0.23.1680.972" timestamp="1604971357415" />
     <state x="527" y="85" key="VCS.ChangeListViewerDialog" timestamp="1607019071089">
@@ -577,26 +341,36 @@
       <screen x="0" y="23" width="1680" height="967" />
     </state>
     <state x="240" y="121" key="Vcs.Push.Dialog.v2/0.23.1680.967@0.23.1680.967" timestamp="1604773984203" />
-    <state x="461" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1609781949754">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state x="461" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1611891709899">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="461" y="300" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611891709899" />
     <state x="461" y="299" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1605740014367" />
     <state x="461" y="299" key="com.intellij.ide.util.TipDialog/0.23.1680.965@0.23.1680.965" timestamp="1609781949754" />
     <state x="461" y="300" key="com.intellij.ide.util.TipDialog/0.23.1680.966@0.23.1680.966" timestamp="1604546927265" />
     <state x="461" y="301" key="com.intellij.ide.util.TipDialog/0.23.1680.967@0.23.1680.967" timestamp="1607453329729" />
     <state x="461" y="302" key="com.intellij.ide.util.TipDialog/0.23.1680.972@0.23.1680.972" timestamp="1605053990924" />
     <state x="461" y="301" key="com.intellij.ide.util.TipDialog/0.23.1680.973@0.23.1680.973" timestamp="1609201150861" />
+    <state x="381" y="392" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1611680521397">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="381" y="392" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1680.1050@0.0.1680.1050" timestamp="1611680521397" />
     <state x="209" y="126" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606188905749">
       <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state x="209" y="126" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1680.963@0.23.1680.963" timestamp="1606188905748" />
+    <state x="100" y="100" width="1480" height="850" key="dock-window-1" timestamp="1611890683266">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="dock-window-1/0.0.1680.1050@0.0.1680.1050" timestamp="1611890683266" />
     <state x="0" y="23" width="1206" height="967" key="find.popup" timestamp="1605066984234">
       <screen x="0" y="23" width="1680" height="967" />
     </state>
     <state x="0" y="23" width="1206" height="967" key="find.popup/0.23.1680.967@0.23.1680.967" timestamp="1605066984234" />
-    <state x="337" y="23" width="1005" height="977" key="search.everywhere.popup" timestamp="1608590216388">
-      <screen x="0" y="23" width="1680" height="977" />
+    <state x="337" y="0" width="1005" height="1050" key="search.everywhere.popup" timestamp="1611887051301">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="337" y="0" width="1005" height="1050" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1611887051301" />
     <state x="337" y="23" width="1005" height="964" key="search.everywhere.popup/0.23.1680.963@0.23.1680.963" timestamp="1606241754781" />
     <state x="337" y="23" width="1005" height="969" key="search.everywhere.popup/0.23.1680.967@0.23.1680.967" timestamp="1606965585705" />
     <state x="337" y="23" width="1005" height="972" key="search.everywhere.popup/0.23.1680.972@0.23.1680.972" timestamp="1604971374362" />
@@ -610,6 +384,16 @@
           <url>file://$PROJECT_DIR$/src/oops/string/tasks/Task2.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/collection/ArrayListDrinksTask.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/it/list/Repl191.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

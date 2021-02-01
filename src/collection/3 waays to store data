@@ -1,0 +1,23 @@
+3 ways to store data using java:
+1)variable (we can store only one value)
+2)Arrays ( The can store multiple objects but they are fixed in size)
+3)Collection (Can store multiple objects and they are dynamic can grow and shrink the size at runtime
+we can not use primitives with collections. Collections can be used with objects only
+ wrapper classes:
+ are classes from Java that help us use Collections with our primotive types
+  as they are objects they also have many built-in methods to manipulate the data types for
+  example converting a string to an Integer
+  String number = "10";
+  int num = Integer.parseInt(number)
+  ListInterface:
+
+Iterator is an interface that lets us iterate through any collection. it has 3 methods
+hasNext()
+next()
+remove()
+
+All of the collection classes they have a method iterator() using this method i can move forward in list using
+above commands, and we can remove using iterator.
+NOTE:
+iterators can be used only once. Once we have used the iterator , we need a new one.
+if we want to iterate the collection again
